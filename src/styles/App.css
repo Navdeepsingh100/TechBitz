@@ -1,0 +1,153 @@
+/* App.css */
+
+.App {
+  text-align: center;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 16px;
+}
+
+.website-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+/* Navbar.css */
+
+.navbar {
+  background-color: #333;
+  color: #fff;
+  padding: 16px;
+}
+
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navbar-link {
+  color: #fff;
+  margin-right: 16px;
+  text-decoration: none;
+}
+
+/* Home.css */
+
+.home-container {
+  background-color: #f2f2f2;
+  padding: 48px;
+  text-align: center;
+}
+
+.home-title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.home-subtitle {
+  font-size: 18px;
+  color: #888;
+}
+
+.home-button {
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.home-button:hover {
+  background-color: #0056b3;
+}
+
+/* About.css */
+
+.about-container {
+  background-color: #fff;
+  padding: 48px;
+}
+
+.about-title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.about-description {
+  font-size: 18px;
+  color: #888;
+  margin-bottom: 24px;
+}
+
+/* Services.css */
+
+.services-container {
+  background-color: #f2f2f2;
+  padding: 48px;
+}
+
+.services-title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.service-card {
+  background-color: #fff;
+  padding: 24px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 24px;
+}
+
+.service-icon {
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+  margin-bottom: 16px;
+  fill: #007bff;
+}
+
+.service-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.service-description {
+  font-size: 16px;
+  color: #888;
+}
+
+/* Footer.css */
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 16px;
+  text-align: center;
+}
+
+.footer-link {
+  color: #fff;
+  margin-right: 16px;
+  text-decoration: none;
+}
+
+body {
+  background-color: #858585;
+}
+

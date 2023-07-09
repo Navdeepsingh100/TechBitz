@@ -1,0 +1,15 @@
+/* About.css */
+
+.about {
+  padding: 48px;
+}
+
+.our-story, .meet-team {
+  margin-bottom: 48px;
+  text-align: center;
+}
+
+.our-story p, .meet-team p {
+  max-width: 800px;
+  margin: 16px auto;
+}

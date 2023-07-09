@@ -1,0 +1,11 @@
+/* Contact.css */
+
+.contact {
+  padding: 48px;
+  text-align: center;
+}
+
+.contact-form, .other-contact-methods {
+  margin-bottom: 48px;
+}
+  

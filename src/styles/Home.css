@@ -1,0 +1,26 @@
+/* Home.css */
+
+.home {
+  text-align: center;
+}
+
+.hero {
+  padding: 48px 0;
+  background: url('') no-repeat center center/cover;
+  color: white;
+}
+
+.cta-button {
+  padding: 12px 24px;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #0056b3;
+}
